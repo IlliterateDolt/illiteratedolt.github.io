@@ -15,11 +15,13 @@ body{
   font-size:2em;
   font-family:'Lobster', serif;
   }
+.header-menu:{
+  position: absolute;
+  top: 6px;
+  right: 50px;
+}
 .header-menu:before{
   font-family: 'FontAwesome';
   content:"\f0c9";
   font-size:2em;
-  position: absolute;
-  top: 6px;
-  right: 50px;
 }
