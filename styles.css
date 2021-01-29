@@ -19,7 +19,7 @@ body{
   content:"";
   position: absolute;
   top:0;
-  right: 25px;
+  right: 40px;
 }
 .header-menu:before{
   font-family: 'FontAwesome';
