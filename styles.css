@@ -18,6 +18,8 @@ body{
 .header-menu:before{
   font-family: 'FontAwesome';
   content:"\f0c9";
-  font-size:2.em;
-  float:right;
+  font-size:2em;
+  position: absolute;
+  top: 6px;
+  right: 50px;
 }
