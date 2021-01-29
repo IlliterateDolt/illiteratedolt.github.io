@@ -18,8 +18,7 @@ body{
 .header-menu{
   content:"";
   position: absolute;
-  top: 6px;
-  right: 50px;
+  right: 25px;
 }
 .header-menu:before{
   font-family: 'FontAwesome';
