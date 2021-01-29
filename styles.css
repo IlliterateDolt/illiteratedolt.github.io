@@ -18,4 +18,6 @@ body{
 .header-menu{
   font-fmaily: 'FontAwesome';
   content:'\f0c9';
+  font-size:2.em;
+  float:right;
 }
