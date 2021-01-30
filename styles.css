@@ -42,7 +42,7 @@ body{
   z-index: 5;
 }
 
-.github-menu-icon a:before{
+a.github-menu-icon:before{
   font-family: 'FontAwesome';
   content:"\f09b";
 }
