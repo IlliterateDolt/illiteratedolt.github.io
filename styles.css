@@ -19,7 +19,7 @@ body{
   content:"";
   position: absolute;
   top:0;
-  right:2%;
+  right:3%;
   cursor:pointer;
 }
 .header-menu:before{
