@@ -59,6 +59,15 @@ a.github-menu-icon:before{
   font-size:50px;
   vertical-align:middle;
 }
+a.wordpress-menu-icon:before{
+  font-family: 'FontAwesome';
+  content:"\f19a";
+  color: white;
+  text-decoration:none;
+  font-size:50px;
+  vertical-align:middle;
+}
+
 
 .ball {
   pointer-events: none;
