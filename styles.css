@@ -19,6 +19,7 @@ body{
   content:"";
   position: absolute;
   top:0;
+  right:2%;
   cursor:pointer;
 }
 .header-menu:before{
@@ -31,7 +32,7 @@ body{
   display:none;
   position: fixed;
   top: 46px;
-  right: 3%;
+  right:0;
   min-height: 100%;
   width: 50%;
   z-index: 2;
