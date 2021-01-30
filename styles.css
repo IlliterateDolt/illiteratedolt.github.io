@@ -42,7 +42,7 @@ body{
 }
 
 /* Mobile Styles and Tablet*/
-@media only screen and (max-width:981px;){
+@media only screen and (max-width:981px){
   
   #header{
   min-height:75px;
