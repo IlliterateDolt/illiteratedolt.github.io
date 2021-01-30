@@ -1,5 +1,7 @@
 $(document).ready(function(){
   $(".header-menu").click(function(){
-    alert("The paragraph was clicked.");
+    
+    console.log('The Button was Clicked');
+   //debug alert("The button was clicked.");
   });
 });
