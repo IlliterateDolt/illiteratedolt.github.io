@@ -65,7 +65,7 @@ a.github-menu-icon:before{
   
   #header{
   min-height:75px;
-  font-size:36px;    
+  font-size:75px!important;    
   }
 .header-menu{
   right:50px;
