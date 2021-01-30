@@ -54,6 +54,9 @@ a{
   padding:25px;
   width:100%;
   }
+.menu-contact a{
+  margin:15px;
+}
 a.github-menu-icon:before{
   font-family: 'FontAwesome';
   content:"\f09b";
