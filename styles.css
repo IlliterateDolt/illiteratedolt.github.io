@@ -27,7 +27,6 @@ body{
 .header-menu:before{
   font-family: 'FontAwesome';
   content:"\f0c9";
-  font-size:2em;
   z-index:999999;
 }
 
@@ -39,7 +38,7 @@ body{
   right:0;
   min-height: 100%;
   width: 50%;
-  z-index: 2;
+  z-index: 5;
 }
 
 /* Mobile Styles and Tablet*/
@@ -47,13 +46,12 @@ body{
   
   #header{
   min-height:75px;
-  font-size:6em;    
+  font-size:70px!important;    
   }
 .header-menu{
   right:50px;
 }
 .header-menu:before{
-  font-size:26px;
 }
 
 #menu-open{
