@@ -24,7 +24,7 @@ body{
   right:3%;
   cursor:pointer;
 }
-.header-menu:before{
+.header-menu:after{
   font-family: 'FontAwesome';
   content:"\f0c9";
   z-index:999999;
@@ -51,7 +51,7 @@ body{
 .header-menu{
   right:50px;
 }
-.header-menu:before{
+.header-menu:after{
 }
 
 #menu-open{
