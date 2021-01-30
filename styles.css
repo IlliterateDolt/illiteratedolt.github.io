@@ -27,7 +27,7 @@ body{
   content:"\f0c9";
 }
 #menu-open{
-  display:none;
+  background-color:#FFC857;
   min-height:100vh;
   min-width:100%;
 }
