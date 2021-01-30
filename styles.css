@@ -28,6 +28,10 @@ body{
 }
 #menu-open{
   background-color:#FFC857;
+  display:none;
+  postion:absolute;
+  top:0;
+  left:50%;
   min-height:100vh;
   min-width:100%;
 }
