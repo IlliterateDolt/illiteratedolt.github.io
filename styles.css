@@ -12,7 +12,6 @@ body{
   min-width:100%;
   text-align: left;
   padding-left:2%;
-  padding-right:2%;
   font-size:2em;
   font-family:'Lobster', serif;
   }
@@ -20,7 +19,7 @@ body{
   content:"";
   position: absolute;
   top:0;
-  right: 40px;
+  right: 75px;
   cursor:pointer;
 }
 .header-menu:before{
