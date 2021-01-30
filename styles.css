@@ -27,6 +27,7 @@ body{
 .header-menu:after{
   font-family: 'FontAwesome';
   content:"\f0c9";
+  margin-left:10px;
   z-index:999999;
 }
 
