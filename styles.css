@@ -2,6 +2,7 @@ body{
   background-color:#333;
 }
 
+
 #header{
   background-color:#2E4052;
   color:white;
@@ -25,8 +26,10 @@ body{
 .header-menu:before{
   font-family: 'FontAwesome';
   content:"\f0c9";
+  font-size:2em;
   z-index:999999;
 }
+
 #menu-open{
   background-color:#FFC857;
   display:none;
@@ -36,4 +39,29 @@ body{
   min-height: 100%;
   width: 50%;
   z-index: 2;
+}
+
+/* Mobile Styles and Tablet*/
+@media (max-width:981px;){
+  
+  #header{
+  min-height:75px;
+  }
+.header-menu{
+  right:50px;
+}
+.header-menu:before{
+  font-size:26px;
+}
+
+#menu-open{
+  background-color:#FFC857;
+  display:none;
+  position: fixed;
+  top: 76px;
+  right:0;
+  min-height: 100%;
+  min-width: 100%;
+}
+  
 }
