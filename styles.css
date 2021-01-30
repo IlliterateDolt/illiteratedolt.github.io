@@ -1,5 +1,5 @@
 body{
-  background-color:#333;
+  background-color:#FFFFEA;
 }
 a{
   text-decoration: none!important;
@@ -7,7 +7,7 @@ a{
 
 
 #header{
-  background-color:#2E4052;
+  background-color:#00CECB;
   color:white;
   position:fixed;
   left:0;
@@ -35,7 +35,7 @@ a{
 }
 
 #menu-open{
-  background-color:#FFC857;
+  background-color:#FFED66;
   display:none;
   position: fixed;
   top: 46px;
@@ -46,6 +46,7 @@ a{
   text-decoration: none;
 }
 .menu-contact{
+  background-color:#FF5E5B;
   position:fixed;
   bottom:0px;
   padding:25px;
@@ -53,11 +54,10 @@ a{
 a.github-menu-icon:before{
   font-family: 'FontAwesome';
   content:"\f09b";
-  color: purple;
+  color: white;
   text-decoration:none;
   font-size:50px;
   vertical-align:middle;
-  
 }
 
 /* Mobile Styles and Tablet*/
