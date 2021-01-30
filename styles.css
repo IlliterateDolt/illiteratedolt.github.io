@@ -29,7 +29,7 @@ body{
 #menu-open{
   background-color:#FFC857;
   display:none;
-  position: absolute;
+  position: fixed;
   top: 46px;
   right: 3%;
   min-height: 100%;
