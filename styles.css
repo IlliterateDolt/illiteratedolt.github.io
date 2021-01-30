@@ -32,6 +32,6 @@ body{
   postion:absolute;
   top:0;
   left:50%;
-  min-height:100vh;
-  min-width:100%;
+  min-height:100px;
+  min-width:50%;
 }
