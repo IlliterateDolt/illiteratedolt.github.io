@@ -26,3 +26,8 @@ body{
   font-family: 'FontAwesome';
   content:"\f0c9";
 }
+#menu-open{
+  display:none;
+  min-height:100vh;
+  min-width:100%;
+}
