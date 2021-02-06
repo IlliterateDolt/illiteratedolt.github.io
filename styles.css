@@ -52,12 +52,13 @@ a{
   background-color:#FF5E5B;
   position:fixed;
   bottom:0px;
-  padding:25px;
   width:100%;
   text-align:center;
   }
 .menu-contact-item{ 
- min-width:29.9%; 
+ min-width:29.9%;
+  padding-top:2.5em;
+  padding-bottom:2.5em;
 }
 .github{
  background-color: #6e5494; 
