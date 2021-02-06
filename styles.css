@@ -56,9 +56,9 @@ a{
   text-align:center;
   }
 .menu-contact-item{ 
- min-width:29.9%;
-  padding-top:2.5em;
-  padding-bottom:2.5em;
+  margin:auto;
+  padding-top:1em;
+  padding-bottom:1em;
 }
 .github{
  background-color: #6e5494; 
