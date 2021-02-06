@@ -56,8 +56,11 @@ a{
   width:100%;
   text-align:center;
   }
-.menu-contact-item{
+.menu-contact-item{ 
  min-width:29.9%; 
+}
+.github{
+ background-color: #6e5494; 
 }
 .menu-contact a{
   margin:15px;
