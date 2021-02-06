@@ -6,7 +6,7 @@ $(document).ready(function(){
   });
 });
 
-
+/*
 $(document).ready(function(){
   
   var mousePos = {};
@@ -44,3 +44,5 @@ $(document).ready(function(){
     }
   }, 1);
 });
+
+*/
