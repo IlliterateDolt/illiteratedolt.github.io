@@ -66,11 +66,11 @@ a{
 .wordpress{
  background-color:#127baa; 
 }
-.menu-contact a{
+a.menu-contact{
   margin:15px;
   transition: transform .5s;
 }
-.menu-contact a:hover{
+a.menu-contact:hover{
 transform: scale(1.5);
 }
 a.github-menu-icon:before{
