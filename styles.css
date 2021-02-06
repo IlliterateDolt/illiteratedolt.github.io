@@ -64,6 +64,10 @@ a{
 }
 .menu-contact a{
   margin:15px;
+  transition: transform .5s;
+}
+.menu-contact a:hover{
+transform: scale(1.5);
 }
 a.github-menu-icon:before{
   font-family: 'FontAwesome';
