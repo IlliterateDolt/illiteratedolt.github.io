@@ -48,6 +48,7 @@ a{
   text-decoration: none;
 }
 .menu-contact{
+  display:flex;
   background-color:#FF5E5B;
   position:fixed;
   bottom:0px;
@@ -55,6 +56,9 @@ a{
   width:100%;
   text-align:center;
   }
+.menu-contact-item{
+ min-width:29.9%; 
+}
 .menu-contact a{
   margin:15px;
 }
