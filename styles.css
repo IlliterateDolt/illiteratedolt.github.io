@@ -90,6 +90,16 @@ a.wordpress-menu-icon:before{
   vertical-align:middle;
 }
 
+#plugins{
+  
+}
+h2.plugins{
+  
+}
+h2.plugins:before{
+ font-family: 'FontAwesome';
+ content:"\f085"; 
+}
 
 .ball {
   pointer-events: none;
@@ -110,7 +120,7 @@ a.wordpress-menu-icon:before{
 }
 
 /* Mobile Styles and Tablet*/
-@media (max-width:600px){
+@media (min-width:300px) and (max-width:600px){
   
   #header{
   min-height:75px;
