@@ -62,6 +62,9 @@ a{
 .github{
  background-color: #6e5494; 
 }
+.wordpress{
+ background-color:#127baa; 
+}
 .menu-contact a{
   margin:15px;
   transition: transform .5s;
