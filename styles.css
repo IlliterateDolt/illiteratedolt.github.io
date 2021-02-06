@@ -93,29 +93,11 @@ a.wordpress-menu-icon:before{
   
 }
 h2.plugins{
-  
+  font-family:
 }
-h2.plugins:before{
+h2.plugins::before{
  font-family: 'FontAwesome';
  content:"\f085"; 
-}
-
-.ball {
-  pointer-events: none;
-  position: absolute;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: gray;
-  animation: implode 1s ease-in-out;
-  animation-fill-mode: both;
-  opacity: 0.5;
-}
-
-@keyframes implode {
-  100% {
-    transform: scale(0);
-  }
 }
 
 /* Mobile Styles and Tablet*/
