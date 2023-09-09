@@ -153,14 +153,15 @@ h2.plugins::before{
 
 body {
   margin: 0;
+  overflow:scroll;
 }
 button#pause-button{
   color:white;
   background-color:#311432;
   border:none;
-  position:absolute;
-  bottom:25px;
-  right:25px;
+  position:fixed;
+  bottom:15px;
+  right:15px;
   text-align:center;
   min-width:50px;
   min-height:30px;
