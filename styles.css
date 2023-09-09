@@ -23,6 +23,9 @@ a{
   font-family:'Lobster', serif;
   z-index:6;
   }
+.headerTitle{
+  font-size:2.3em;
+}
 .header-menu{
   content:"";
   position: absolute;
