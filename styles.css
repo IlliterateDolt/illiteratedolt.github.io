@@ -38,7 +38,8 @@ a{
 }
 
 #menu-open{
-  background-color:#FFED66;
+  color:white;
+  background-color:none;
   display:none;
   position: fixed;
   top: 46px;
@@ -47,6 +48,7 @@ a{
   width: 100%;
   z-index: 5;
   text-decoration: none;
+   font-family:'Lobster', serif;
 }
 .menu-contact{
   display:flex;
