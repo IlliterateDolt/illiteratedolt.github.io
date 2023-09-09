@@ -187,8 +187,9 @@ video {
 
 
 @media screen and (max-device-width: 800px) {
-  html { background: url(https://thenewcode.com/assets/images/polina.jpg) #000 no-repeat center center fixed; }
-  #bgvid { display: none; }
+  html { background: url(https://malders.io/uploads/mobile_background.png) #000 no-repeat center center cover; }
+  #bgvid { display: none; 
+         }
 }
 
 .plugin-megamenu-item{
@@ -210,4 +211,15 @@ video {
   font-size:1.8em;
   margin:10px;
    text-align:center;
+}
+.theme-container{
+  
+}
+.theme-megamenu-item{
+  display:flex;
+    border-radius: 15px;
+    background-color: white;
+    padding: 15px;
+    color: #311432;
+    text-align: center;
 }
