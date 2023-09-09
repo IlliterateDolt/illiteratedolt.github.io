@@ -48,7 +48,7 @@ a{
   width: 100%;
   z-index: 5;
   text-decoration: none;
-   font-family:'Lobster', serif;
+   font-family:'Cuprum', serif;
 }
 .menu-contact{
   display:flex;
@@ -202,6 +202,11 @@ video {
 .plugins-container{
   
 }
+.plugin-megamenu-container ul , .plugin-megamenu-container li a{
+  list-style:none;
+  color:white;
+  font-size:1.9em;
+}
 .plugins-container h2{
   font-weight:300;
   font-size:2.9em;
@@ -222,4 +227,5 @@ video {
     padding: 15px;
     color: #311432;
     text-align: center;
+    max-height:80px;
 }
