@@ -232,3 +232,41 @@ video {
     text-align: center;
     max-height:80px;
 }
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #311432 #000236;
+}
+
+/* Chrome, Edge and Safari */
+*::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+*::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background-color: #000236;
+}
+
+*::-webkit-scrollbar-track:hover {
+  background-color: #311432;
+}
+
+*::-webkit-scrollbar-track:active {
+  background-color: #000236;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: #311432;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #B44980;
+}
+
+*::-webkit-scrollbar-thumb:active {
+  background-color: #0098A3;
+}
+
